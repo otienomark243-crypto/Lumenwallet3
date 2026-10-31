@@ -1,0 +1,19 @@
+{
+  "name": "Lumen Wallet",
+  "short_name": "Lumen",
+  "description": "Lumen Wallet crypto dashboard and wallet demo",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#7c5cff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
